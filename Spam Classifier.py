@@ -9,7 +9,7 @@ Created on Sat Oct  5 19:56:56 2019
 import pandas as pd
 
 # read dataset
-df = pd.read_csv('G:\\NLP\\Krish Naik\\Spam Classifier\\SMSSpamCollection', sep='\t', names=['label', 'message'])
+df = pd.read_csv('...\\Spam Classifier\\SMSSpamCollection', sep='\t', names=['label', 'message'])
 
 # print first 5 rows of dataset
 df.head()
